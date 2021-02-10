@@ -4,8 +4,9 @@ My name is Lars Erik.
 
 Software engineer, creative technologist, indoor enthusiast, avid user of GIFs. Keeping it sensible since 1993.
 
-- 💻 &nbsp;&nbsp;&nbsp;&nbsp; I'm currently working in the Norwegian Tax Administration (Skatteetaten) as a full-stack developer (ReactJS and Java / Kotlin).
-- 💡 &nbsp;&nbsp;&nbsp;&nbsp; I'm interested in programming, electronics and technology in general.
-- 🎓 &nbsp;&nbsp;&nbsp;&nbsp; I have a masters degree in informatics, specializing in programming and networks from the University of Oslo (UiO).
+- 💻 &nbsp;&nbsp;I'm currently working in the Norwegian Tax Administration (Skatteetaten) as a full-stack developer (ReactJS and Java / Kotlin).
+  - 🏗;&nbsp;&nbsp; Recently I have been working on The Business Compensation Scheme (Kompensasjonsordningen for næringslivet), which is part of the government’s measures to mitigate the financial effects of the coronavirus situation and the infection control measures.
+- 💡 &nbsp;&nbsp; I'm interested in programming, electronics and technology in general.
+- 🎓 &nbsp;&nbsp; I have a masters degree in informatics, specializing in programming and networks from the University of Oslo (UiO).
 
 ![](https://thumbs.gfycat.com/GraveUnrulyFluke-small.gif)
