@@ -1,4 +1,4 @@
-<svg width="62.5mm" height="16.4042mm" xmlns="http://www.w3.org/2000/svg">
+<svg width="62.5mm" height="16.4042mm" xmlns="http://www.w3.org/2000/svg" onload='init(evt)'>
   <script>//<![CDATA[
     function GetURLParameter(sParam) {
       var sPageURL = window.location.search.substring(1);
@@ -11,13 +11,16 @@
       }
     }
 
-    
-    var kjennemerkeSvg = document.getElementById("kjennemerkeText");
-    var kjennemerkeNode = kjennemerkeSvg.childNodes[0];
-    var kjennemerke = GetURLParameter('kjennemerke');
+    function init(evt) {
+      var svgDocument = evt.target.ownerDocument;
+      var svgRoot = svgDocument.documentElement;
+      var kjennemerkeSvg = svgRoot.getElementById("kjennemerkeText");
+      var kjennemerkeNode = kjennemerkeSvg.childNodes[0];
+      var kjennemerke = GetURLParameter('kjennemerke');
 
-    if (kjennemerke) {
-      kjennemerkeNode.nodeValue = kjennemerke.toUpperCase();
+      if (kjennemerke) {
+        kjennemerkeNode.nodeValue = kjennemerke.toUpperCase();
+      }
     }
     //]]>
   </script>
