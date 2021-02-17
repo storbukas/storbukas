@@ -235,6 +235,6 @@
     <g fill="#000000" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" transform="matrix(1,0,0,1,0,0)">
     </g>
 
-    <text id="id-of-text-el" x="127" y="42" fill="black" font-size="36px" letter-spacing="2" text-anchor="middle" "LFT Etica, Lucida Sans Unicode, Lucida Grande, sans-serif">GEEK</text>
+    <text id="id-of-text-el" x="127" y="42" fill="black" font-size="36px" letter-spacing="2" text-anchor="middle" font-family="LFT Etica, Lucida Sans Unicode, Lucida Grande, sans-serif">GEEK</text>
   </g>
 </svg>
