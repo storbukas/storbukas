@@ -2,6 +2,10 @@
 
 My name is Lars Erik.
 
+<a href="https://larserik.storbukas.no">
+  <img src="http://git.storbukas.no/personlig-kjennemerke.svg">
+</a>
+
 Software engineer, creative technologist, indoor enthusiast, avid user of GIFs. Keeping it sensible since 1993.
 
 - 💻 &nbsp;&nbsp;I'm currently working in the Norwegian Tax Administration (Skatteetaten) as a full-stack developer (ReactJS and Java / Kotlin).
