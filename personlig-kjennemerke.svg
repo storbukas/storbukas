@@ -11,15 +11,14 @@
       }
     }
 
-    window.addEventListener('load', function() {
-      var kjennemerkeSvg = document.getElementById("kjennemerkeText");
-      var kjennemerkeNode = kjennemerkeSvg.childNodes[0];
-      var kjennemerke = GetURLParameter('kjennemerke');
+    
+    var kjennemerkeSvg = document.getElementById("kjennemerkeText");
+    var kjennemerkeNode = kjennemerkeSvg.childNodes[0];
+    var kjennemerke = GetURLParameter('kjennemerke');
 
-      if (kjennemerke) {
-        kjennemerkeNode.nodeValue = kjennemerke.toUpperCase();
-      }
-    })
+    if (kjennemerke) {
+      kjennemerkeNode.nodeValue = kjennemerke.toUpperCase();
+    }
     //]]>
   </script>
   <desc>Created by Lars Erik Storbukås</desc>
