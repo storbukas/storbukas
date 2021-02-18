@@ -1,7 +1,7 @@
 # Lars Erik Storbukås ([@storbukas](https://github.com/storbukas))
 
-<a href="https://larserik.storbukas.no">
-  <img src="http://git.storbukas.no/personlig-kjennemerke.svg">
+<a href="https://github.com/storbukas/personlig-bilskilt">
+  <img src="http://personlig-bilskilt.storbukas.no">
 </a>
 
 Software engineer, creative technologist, indoor enthusiast, avid user of GIFs. Keeping it sensible since 1993.
