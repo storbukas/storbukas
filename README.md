@@ -1,6 +1,4 @@
-### Hi there 👋
-
-My name is Lars Erik.
+# Lars Erik Storbukås (@storbukas)
 
 <a href="https://larserik.storbukas.no">
   <img src="http://git.storbukas.no/personlig-kjennemerke.svg">
