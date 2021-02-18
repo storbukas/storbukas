@@ -1,4 +1,4 @@
-# Lars Erik Storbukås (@storbukas)
+# Lars Erik Storbukås ([@storbukas](https://github.com/storbukas))
 
 <a href="https://larserik.storbukas.no">
   <img src="http://git.storbukas.no/personlig-kjennemerke.svg">
