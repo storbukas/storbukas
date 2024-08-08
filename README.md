@@ -8,5 +8,4 @@ Software engineer, creative technologist, DIY enthusiast, avid user of GIFs. Kee
 
 - 💻 &nbsp;&nbsp; CTO @ Checkin - A complete event registration solution, without the accounting headache
 - 💡 &nbsp;&nbsp; Passionate about programming, electronics, and technology in general.
-- 🏗 &nbsp;&nbsp; Eager to learn new things, I always attempt to tackle home renovation, construction, general DIY, and outdoor projects on my own.
 - 🎓 &nbsp;&nbsp; Masters degree in informatics, specializing in programming and networks, from the University of Oslo (UiO).
